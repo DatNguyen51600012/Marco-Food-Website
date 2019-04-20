@@ -1,0 +1,4 @@
+ $ Buoc di den dich :['LEFT', 'LEFT', 'UP', 'UP']
+ $ So node : 8
+ $ Do sau :5
+ $ Thoi gian thuc hien :0.085881137
